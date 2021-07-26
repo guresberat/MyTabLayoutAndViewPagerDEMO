@@ -1,12 +1,9 @@
 package com.example.mytablayoutandviewpagerexercise.fragments.adapters
 
-import android.os.Bundle
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.lifecycle.Lifecycle
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.example.mytablayoutandviewpagerexercise.MainActivity
-import com.example.mytablayoutandviewpagerexercise.fragments.HomeFragment
 
 class ViewPagerAdapter(
     fragmentManager: FragmentManager,
