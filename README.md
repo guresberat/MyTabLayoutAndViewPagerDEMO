@@ -1,6 +1,6 @@
 # TabLayoutAndViewPagerDEMO
 
-- An app I made for to practice Tablayout and ViewPager.
+- An app I made to practice Tablayout and ViewPager.
 
 ## Built With 
 
